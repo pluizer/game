@@ -1,0 +1,12 @@
+* Game - by Pluizer
+
+* Key points
+  * Turn based
+  * Every character is fully simulated
+  * Rather a small but full world than a vast empty one
+  * No skills, instead of leveling up you make your enemy weaker
+  * Rogue-like but not randomly generated
+
+* Technical
+  * Made in Chicken Scheme and my Coati-2D
+  * Fully 2D, isometric tiles
